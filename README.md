@@ -1,3 +1,7 @@
+https://martinivendingmachine.surge.sh/
+
+---
+
 # 🏗 scaffold-eth | 🏰 BuidlGuidl
 
 ## 🚩 Challenge 2: 🏵 Token Vendor 🤖
